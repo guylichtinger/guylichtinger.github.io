@@ -1,36 +1,37 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Working Papers
 
-{% include base_path %}
+**Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data**  
+*with Seyed Mahdi Hosseini Maasoum*  
+SSRN Working Paper, 2025  
+[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)]
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+> We examine whether generative AI constitutes a form of seniority-biased technological change, using U.S. résumé and job posting data covering nearly 62 million workers in 285,000 firms (2015–2025). Beginning in 2023Q1, junior employment in firms adopting AI declines sharply relative to non-adopters, while senior employment continues to rise.
 
+**Child Penalties, Child Outcomes, and Family Culture**  
+*with Eric Gould*  
+IZA Discussion Paper No. 17455, November 2024
 
+**Gender Segregation in the Labor Market: The Role of the Husband's Family Gender Norms**  
+SSRN Working Paper, 2023  
+[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649975)]
 
+**Generative AI, Expertise, and Effective Labor Supply**  
+*with Seyed Mahdi Hosseini Maasoum*  
+Work in progress
+
+**Nonresponse Bias in Macroeconomic Indicators**  
+Work in progress
+
+---
+
+## Talks & Presentations
+
+- Stanford Digital Economy Lab — *Generative AI as Seniority-Biased Technological Change* [[video](https://www.youtube.com/watch?v=Igo3VOBlUgA)]
+- *Evidence from the US Workplace: The Widening Seniority Gap* [[video](https://www.youtube.com/watch?v=pIp4eQ2o0fw)]
