@@ -28,10 +28,13 @@ author_profile: true
 
 <br>
 
-- **["Gender Segregation in the Labor Market: The Role of the Husband's Family Gender Norms"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649975)**
-
-- **["Addressing AI-Induced Labor Market Risks Through Enhanced Individual Capital Income"](https://dash.harvard.edu/entities/publication/dac6968f-74eb-420a-9e92-835e5c544ab5)** with Shira Greenberg and Merav Kaplan
-
 ## Work in Progress
 
 - **"GenAI Adoption and the Reorganization of Junior Work: Micro Evidence from Job Postings"** with [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home) and [Can Yesildere](https://www.economics.harvard.edu/people/can-yesildere)
+
+<br>
+
+## Policy Papers
+- **["Addressing AI-Induced Labor Market Risks Through Enhanced Individual Capital Income"](https://dash.harvard.edu/entities/publication/dac6968f-74eb-420a-9e92-835e5c544ab5)** with Shira Greenberg and Merav Kaplan
+
+
