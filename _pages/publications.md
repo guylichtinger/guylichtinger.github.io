@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: 
 permalink: /research/
 author_profile: true
 ---
@@ -19,7 +19,7 @@ author_profile: true
     -  With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home)
     - *Presentations:* IESE's 2026 Economics of AI Conference; HKU's 2nd Asian Conference on Organizational Economics
  
-<div style="height: 6px;"></div>
+<div style="height: 4px;"></div>
 
 - **["Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)**
     - With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home) 
@@ -27,14 +27,14 @@ author_profile: true
     - *Presentations:* [Stanford Digital Economy Lab](https://digitaleconomy.stanford.edu/event/seyed-m-hosseini-and-guy-lichtinger-generative-ai-as-seniority-biased-technological-change-evidence-from-u-s-resume-and-job-posting-data/); [Luohan Academy Frontier Dialogue](https://www.luohanacademy.com/en//frdue/1109/); Boston Fed
 
 
-<div style="height: 6px;"></div>
+<div style="height: 4px;"></div>
 
 
 - **["Child Penalties, Child Outcomes, and Family Culture"](https://www.iza.org/publications/dp/17455/child-penalties-child-outcomes-and-family-culture)**
     - With [Eric Gould](https://sites.google.com/site/edgould/home) 
 
 
-<div style="height: 6px;"></div>
+<div style="height: 4px;"></div>
 
 
 - **["Nonresponse Bias in Macroeconomic Indicators: Evidence from Israeli Administrative and Survey Data"](https://www.nber.org/papers/w32935)**
