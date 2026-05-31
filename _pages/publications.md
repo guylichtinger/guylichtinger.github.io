@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+  li li { 
+    font-size: 0.85em; 
+    margin-bottom: 2px;
+  }
+</style>
+
+
 ## Working Papers
 
 - **["Generative AI and Occupational Entry Barriers: The Labor-Supply Channel of Technological Change"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6059674)** 
