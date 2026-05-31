@@ -29,7 +29,7 @@ author_profile: true
 <div style="height: 8px;"></div>
 
 
-- **["Nonresponse Bias in Macroeconomic Indicators: Evidence from Merging Israeli Administrative and Survey Data"](https://www.nber.org/papers/w32935)**
+- **["Nonresponse Bias in Macroeconomic Indicators: Evidence from Israeli Administrative and Survey Data"](https://www.nber.org/papers/w32935)**
     - With [Ori Heffetz](https://users.nber.org/~heffetz/) and [Daniel Reeves](https://www.nber.org/people/daniel_reeves) 
 
 <br>
