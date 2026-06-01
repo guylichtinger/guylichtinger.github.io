@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Guy Lichtinger
+
 I'm a second-year PhD student in economics at Harvard University.
 
 I'm interested in Labor and Public Economics, with a particular interest in inequality and technological change.
