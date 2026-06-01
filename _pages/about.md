@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: 
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Guy Lichtinger
 
 I'm a second-year PhD student in economics at Harvard University.
 
