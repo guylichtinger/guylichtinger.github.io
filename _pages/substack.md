@@ -4,7 +4,7 @@ permalink: /substack/
 author_profile: true
 ---
 
-I write about the economics of AI and the labor market on [Substack](https://guylichtinger.substack.com/). A selection of posts:
+I write about AI, inequality, and the labor market on [Substack](https://guylichtinger.substack.com/). A selection of posts:
 
 - **[“What Can and Can’t AI Spending Data Tell Us About Employment?”](https://guylichtinger.substack.com/p/what-can-and-cant-ai-spending-data)**
   * With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home)
