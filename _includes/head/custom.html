@@ -12,11 +12,16 @@
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
-<meta name="theme-color" content="#ffffff"/>
+<meta name="theme-color" content="#faf5ea"/>
 
-<!-- Custom styling: serif font, dark-blue accent, photo, homepage -->
+<!-- Custom styling: serif font, dark-blue accent, beige background, homepage -->
 <style>
-:root{--accent:#1D4E89;--accent-dark:#163a66;--ink:#1a1a1a;}
+:root{--accent:#1D4E89;--accent-dark:#163a66;--ink:#1a1a1a;--bg:#FAF5EA;}
+body{background-color:var(--bg);}
+.masthead{background-color:var(--bg);}
+.page__footer{background-color:#F1EAD8;}
+#main{max-width:1440px !important;}
+.masthead__inner-wrap{max-width:1440px !important;}
 body,.page__content,.page__content p,.page__content li,.archive,.archive p,.archive li,.author__name,.author__bio,.page__title,.archive__item-title,h1,h2,h3,h4,h5,h6{font-family:Georgia,"Times New Roman",Times,serif;}
 .page__content,.archive{color:var(--ink);font-size:1.05em;line-height:1.75;}
 .page__content a,.archive a{color:var(--accent);text-decoration:none;}
@@ -24,20 +29,20 @@ body,.page__content,.page__content p,.page__content li,.archive,.archive p,.arch
 .site-title{color:var(--accent);}
 .sidebar .author__avatar img,.author__avatar img{width:100% !important;max-width:210px !important;height:auto !important;border-radius:6px !important;}
 .author__name{font-size:1.2em;margin-top:.6em;}
-.archive li strong a,.page__content li strong a{font-size:16px;font-weight:700;}
-.home-card{display:flex;gap:2.8rem;align-items:flex-start;max-width:880px;margin:2.5rem auto 0;text-align:left;}
+.archive li strong a,.page__content li strong a{font-size:18px;font-weight:700;}
+.home-card{display:flex;gap:3.8rem;align-items:flex-start;max-width:1180px;margin:2.5rem auto 0;text-align:left;}
 .home-side{flex:0 0 230px;}
 .home-photo{width:230px;border-radius:6px;display:block;}
-.home-contacts{list-style:none;padding:0;margin:1.1rem 0 0;font-size:.98em;}
+.home-contacts{list-style:none;padding:0;margin:1.1rem 0 0;font-size:.86em;}
 .home-contacts li{margin:.4rem 0;color:#494E52;}
 .home-contacts i{width:1.3em;margin-right:.35em;color:#494E52;text-align:center;}
 .home-contacts .fa-linkedin{color:#0077B5;}
 .home-text{flex:1 1 auto;}
 .home-text .hero-name{display:block;font-size:2rem;font-weight:700;color:var(--accent);line-height:1.15;margin:0 0 .8rem;}
 .home-text p{margin:0 0 1rem;}
-@media (max-width:700px){.home-card{flex-direction:column;align-items:center;}.home-side{flex-basis:auto;text-align:center;}.home-photo{width:200px;margin:0 auto;}.home-contacts{display:inline-block;text-align:left;}.home-text{width:100%;}}
+@media (max-width:700px){.home-card{flex-direction:column;align-items:center;gap:1.5rem;}.home-side{flex-basis:auto;text-align:center;}.home-photo{width:200px;margin:0 auto;}.home-contacts{display:inline-block;text-align:left;}.home-text{width:100%;}}
 .cv-actions{margin:.2rem 0 .6rem;font-size:1.05em;}
-.cv-embed{width:100%;height:900px;border:1px solid #ddd;}
+.cv-embed{width:100%;height:900px;border:1px solid #ddd;background:#fff;}
 </style>
 
 <!-- end custom head snippets -->
