@@ -3,6 +3,6 @@ main:
   - title: "Research"
     url: /research/
   - title: "CV"
-    url: "https://www.dropbox.com/scl/fi/gexf0apk8ng66aa5jgo5h/C.V-Guy-Lichtinger.pdf?rlkey=r6y7v1k17ksm8smq49eszrto9&dl=0"
+    url: /cv/
   - title: "Substack"
     url: /substack/
