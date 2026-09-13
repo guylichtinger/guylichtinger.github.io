@@ -17,7 +17,7 @@ author_profile: true
 
 - **["Generative AI and Occupational Entry Barriers: The Labor-Supply Channel of Technological Change"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6059674)** 
     -  With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home)
-    - *Presentations:* IESE's 2026 Economics of AI Conference; HKU's 2nd Asian Conference on Organizational Economics
+    - *Presentations:* IESE's 2026 Economics of AI Conference; HKU's 2nd Asian Conference on Organizational Economics; AI, Health & Well-Being Conference; 2027 American Economic Association Meetings
  
 <div style="height: 4px;"></div>
 
