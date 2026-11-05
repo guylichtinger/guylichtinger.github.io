@@ -9,12 +9,18 @@ redirect_from:
 ---
 
 <style>
+  .page__inner-wrap {
+    max-width: 1400px;
+    width: 100%;
+  }
+
   .home-card {
     max-width: 1300px;
     width: 100%;
     margin: 0 auto;
   }
 </style>
+
 
 
 <div class="home-card">
