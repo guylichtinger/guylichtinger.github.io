@@ -41,13 +41,12 @@ Seminar; U-Chicago's AI in the Workplace Conference; Columbia Business School's 
     - With [Eric Gould](https://sites.google.com/site/edgould/home) 
 
 
-<div style="height: 2px;"></div>
+<div style="height: 1px;"></div>
 
 
 - **["Nonresponse Bias in Macroeconomic Indicators: Evidence from Israeli Administrative and Survey Data"](https://www.nber.org/papers/w32935)**
     - With [Ori Heffetz](https://users.nber.org/~heffetz/) and [Daniel Reeves](https://www.nber.org/people/daniel_reeves) 
 
-<br>
 
 ## Work in Progress
 
@@ -60,6 +59,7 @@ Seminar; U-Chicago's AI in the Workplace Conference; Columbia Business School's 
 - **"AI and the Distribution of Prosperity: A Unified Framework for Understanding How Technology Shapes Inequality"**
     - With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home), [Ben Moll](https://benjaminmoll.com/), and [Alex Imas](https://www.aleximas.com/)
     - *Coverage:* [The Washington Post](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/)
+
 <br>
 
 ## Policy Papers
