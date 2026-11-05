@@ -26,19 +26,18 @@ redirect_from:
     width: 100% !important;
   }
 
-  /* Homepage content */
+    /* Homepage content */
   .home-card {
     max-width: 900px !important;
     width: 100%;
     margin: 0 auto;
-
-    /* Vertical positioning */
-    min-height: 50vh;
+  
+    min-height: 55vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 100px;
   }
-
   .home-text {
     flex: 1;
     max-width: none !important;
