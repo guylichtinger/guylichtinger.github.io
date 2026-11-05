@@ -8,6 +8,15 @@ redirect_from:
 - /about.html
 ---
 
+<style>
+  .home-card {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+  }
+</style>
+
+
 <div class="home-card">
   <div class="home-side">
     <img class="home-photo" src="/images/profile.png" alt="Guy Lichtinger">
