@@ -19,7 +19,7 @@ author_profile: true
     -  With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home)
     - *Presentations:* IESE's 2026 Economics of AI Conference; HKU's 2nd Asian Conference on Organizational Economics; AI, Health & Well-Being Conference; 2027 American Economic Association Meetings
  
-<div style="height: 4px;"></div>
+<div style="height: 3px;"></div>
 
 - **["Generative AI as Seniority-Biased Technological Change: Evidence from U.S. Résumé and Job Posting Data"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5425555)**, <span style="color: black; font-weight: bold;">Revise and Resubmit, Journal of Labor Economics</span> 
     - With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home) 
@@ -29,14 +29,14 @@ Seminar; U-Chicago's AI in the Workplace Conference; Columbia Business School's 
   - Revise and Resubmit, Journal of Labor Economics
 
 
-<div style="height: 4px;"></div>
+<div style="height: 3px;"></div>
 
 
 - **["Child Penalties, Child Outcomes, and Family Culture"](https://www.iza.org/publications/dp/17455/child-penalties-child-outcomes-and-family-culture)**
     - With [Eric Gould](https://sites.google.com/site/edgould/home) 
 
 
-<div style="height: 4px;"></div>
+<div style="height: 2px;"></div>
 
 
 - **["Nonresponse Bias in Macroeconomic Indicators: Evidence from Israeli Administrative and Survey Data"](https://www.nber.org/papers/w32935)**
@@ -50,7 +50,7 @@ Seminar; U-Chicago's AI in the Workplace Conference; Columbia Business School's 
     - With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home) and [Can Yesildere](https://www.economics.harvard.edu/people/can-yesildere)
     - *Presentations:* Tel Aviv University's Frontiers in Economics Conference.
 
-<div style="height: 4px;"></div>
+<div style="height: 2px;"></div>
 
 - **"AI and the Distribution of Prosperity: A Unified Framework for Understanding How Technology Shapes Inequality"**
     - With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home), [Ben Moll](https://benjaminmoll.com/), and [Alex Imas](https://www.aleximas.com/)
