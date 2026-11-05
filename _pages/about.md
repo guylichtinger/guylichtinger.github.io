@@ -28,7 +28,7 @@ redirect_from:
 
     /* Homepage content */
   .home-card {
-    max-width: 900px !important;
+    max-width: 1000px !important;
     width: 100%;
     margin: 0 auto;
   
@@ -36,7 +36,7 @@ redirect_from:
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 100px;
+    gap: 110px;
   }
   .home-text {
     flex: 1;
