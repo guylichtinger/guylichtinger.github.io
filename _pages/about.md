@@ -28,7 +28,7 @@ redirect_from:
 
   /* Homepage content */
   .home-card {
-    max-width: 1150px !important;
+    max-width: 1000px !important;
     width: 100%;
     margin: 0 auto;
 
