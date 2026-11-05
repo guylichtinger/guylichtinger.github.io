@@ -10,8 +10,13 @@ author_profile: true
     font-size: 0.85em; 
     margin-bottom: 2px;
   }
-</style>
 
+  h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+  }
+</style>
 
 ## Working Papers
 
