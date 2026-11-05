@@ -46,10 +46,13 @@ Seminar; U-Chicago's AI in the Workplace Conference; Columbia Business School's 
 
 ## Work in Progress
 
-- **"GenAI Adoption and the Reorganization of Junior Work: Micro Evidence from Job Postings"** 
+- **"GenAI Adoption and the Reorganization of Work"** 
     - With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home) and [Can Yesildere](https://www.economics.harvard.edu/people/can-yesildere)
     - *Presentations:* Tel Aviv University's Frontiers in Economics Conference.
 
+- **"AI and the Distribution of Prosperity: A Unified Framework for Understanding How Technology Shapes Inequality"
+    - With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home), [Ben Moll](https://benjaminmoll.com/), and [Alex Imas](https://www.aleximas.com/)
+    - *Coverage:* [The Washington Post](https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/)
 <br>
 
 ## Policy Papers
