@@ -32,7 +32,7 @@ redirect_from:
     width: 100%;
     margin: 0 auto;
   
-    min-height: 55vh;
+    min-height: 60vh;
     display: flex;
     align-items: center;
     justify-content: center;
