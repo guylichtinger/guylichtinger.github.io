@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <style>
-  /* Increase the width of the main page container */
+  /* Main page container */
   #main {
     max-width: 1600px !important;
     width: 95% !important;
@@ -26,14 +26,25 @@ redirect_from:
     width: 100% !important;
   }
 
-  /* Increase the width of the homepage content */
+  /* Homepage content */
   .home-card {
-    max-width: 1400px !important;
+    max-width: 1150px !important;
     width: 100%;
     margin: 0 auto;
+
+    /* Vertical positioning */
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .home-text {
+    flex: 1;
+    max-width: none !important;
+    min-width: 0;
   }
 </style>
-
 
 
 
