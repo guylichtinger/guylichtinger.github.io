@@ -50,7 +50,7 @@ Seminar; U-Chicago's AI in the Workplace Conference; Columbia Business School's 
 
 ## Work in Progress
 
-- **"GenAI Adoption and the Reorganization of Work"** 
+- **"Generative AI and the Reorganization of Work"** 
     - With [Seyed Hosseini](https://sites.google.com/view/mahdi-hosseini/home) and [Can Yesildere](https://www.economics.harvard.edu/people/can-yesildere)
     - *Presentations:* Tel Aviv University's Frontiers in Economics Conference.
 
