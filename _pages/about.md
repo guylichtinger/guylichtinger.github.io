@@ -9,17 +9,31 @@ redirect_from:
 ---
 
 <style>
-  .page__inner-wrap {
-    max-width: 1400px;
-    width: 100%;
+  /* Increase the width of the main page container */
+  #main {
+    max-width: 1600px !important;
+    width: 95% !important;
+    margin: 0 auto !important;
   }
 
+  .page {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+
+  .page__inner-wrap {
+    max-width: none !important;
+    width: 100% !important;
+  }
+
+  /* Increase the width of the homepage content */
   .home-card {
-    max-width: 1300px;
+    max-width: 1400px !important;
     width: 100%;
     margin: 0 auto;
   }
 </style>
+
 
 
 
