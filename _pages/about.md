@@ -28,12 +28,12 @@ redirect_from:
 
   /* Homepage content */
   .home-card {
-    max-width: 1000px !important;
+    max-width: 900px !important;
     width: 100%;
     margin: 0 auto;
 
     /* Vertical positioning */
-    min-height: 70vh;
+    min-height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center;
